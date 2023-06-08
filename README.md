@@ -5,8 +5,8 @@ This repository serves as a compilation of study materials for the Neetcode 150 
 ## Sections
 
 ### Arrays & Hashing
-- [Notes](.arrays_hashing/notes.md)
-- [Code](.arrays_hashing/code/)
+- [Notes](./arrays_hashing/notes.md)
+- [Code](./arrays_hashing/code/)
 
 ### Two Pointers
 - [Notes](./two_pointers/notes.md)
